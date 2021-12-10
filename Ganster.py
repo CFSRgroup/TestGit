@@ -4,3 +4,4 @@
 # file   : Ganster.py
 # IDE    : PyCharm
 print('agent on')
+print('change the proxy')
