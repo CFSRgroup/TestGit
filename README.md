@@ -6,3 +6,4 @@ If you are one of us, please follow these instructions below:
   2.Become a contributor of this project.
   3.Try to commit and push your own python file(any content) to this repository.
     Please leave your signature in python file.
+If you have any troubles during the testing, please contact the author of documentation
